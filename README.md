@@ -14,7 +14,7 @@ If you're interested in helping with this project, please add your name and goal
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
 | Michael Studinger | I am interested in this project for a number of reasons. Tracking ice divides is one potential application. | Adding airborne data in between ICESat-2 tracks, in particular ATM. | Helper |
-
+| Ayman Ahajjam | Learn to integrate cloud computing in my work process;Learn how to use ICESat-2 data products; Collaborate with others | Data science; Visualization, inSAR data from Alaska | Participant |   
 
 ### The problem
 
